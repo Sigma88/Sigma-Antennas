@@ -3,7 +3,7 @@
 **More antennas and colorcoding**
 
 
-KSP Forum Thread: 
+KSP Forum Thread: http://forum.kerbalspaceprogram.com/threads/136732
 
 Download Latest Release: https://github.com/Sigma88/Sigma-Antennas/releases/latest
 
