@@ -1,10 +1,10 @@
-# Sigma: RTAntennas
+# Sigma: Antennas
 
 **More antennas and colorcoding**
 
 
-KSP Forum Thread: http://forum.kerbalspaceprogram.com/threads/128856
+KSP Forum Thread: 
 
-Download Latest Release: https://github.com/Sigma88/Sigma-RTAntennas/releases/latest
+Download Latest Release: https://github.com/Sigma88/Sigma-Antennas/releases/latest
 
-Dev version: https://github.com/Sigma88/Sigma-RTAntennas/tree/Development
+Dev version: https://github.com/Sigma88/Sigma-Antennas/tree/Development
