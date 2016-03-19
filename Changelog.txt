@@ -1,6 +1,6 @@
 **v1.1.0**
 
-- added Sigma Dimensions compatibility
+- Added Sigma Dimensions compatibility
 
 
 **v1.0.0**
